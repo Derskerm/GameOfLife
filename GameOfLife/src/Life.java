@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 	Represents a Game Of Life grid.
 
-	Coded by:
+	Coded by: desmond Kamas
 	Modified on:
 
 */
